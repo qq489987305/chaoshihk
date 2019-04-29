@@ -1,0 +1,1619 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>香瓜超市—个性化定制超市，满足你的各种幻想！</title>
+<style type="text/css">
+#logo {
+	height: 100px;
+	width: 1194px;
+}
+#kb001 {
+	height: 20px;
+	width: 1194px;
+}
+#logo3 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#logo4 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#logo1 {
+	float: left;
+	height: 100px;
+	width: 180px;
+}
+#logo6 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#logo7 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#logo8 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#logo9 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#logo10 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#logo11 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#logo12 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#logo13 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs001 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs01 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs02 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#hs03 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs04 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	font-weight: bold;
+	background-image: url(beijingtu.gif);
+}
+#hs05 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs06 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#hs07 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs08 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#hs09 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs10 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#hs11 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs12 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#hs13 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs14 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#hs15 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#hs16 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls01 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls02 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs04 {
+}
+#ls03 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls04 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls05 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls06 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls07 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls08 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls09 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls10 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls11 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls12 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls13 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls14 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls15 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls16 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs01 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs02 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs03 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs04 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs05 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs06 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs07 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs08 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs09 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs10 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs11 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs12 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs13 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs13 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs14 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#qs15 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#qs16 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls01 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#cs02 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs09 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls01a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls02a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls03a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls04a {
+	background-color: #00F;
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+#ls04a {
+	background-image: url(beijingtu.gif);
+}
+#ls05a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls06a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls07a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls08a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls09a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls10a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls11a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls12a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls13a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls14a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#ls15a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#ls16a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs01a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#zs02a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs03a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#zs04a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs05a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#cs10 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs06a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs07a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#zs08a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs09a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#zs10a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs11a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#zs12a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs13a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#zs14a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zs15a {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#zs16a {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs11 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#cs12 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs13 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#cs14 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs15 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#cs16 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs03 {
+	height: 100px;
+	width: 20px;
+	float: left;
+}
+#cs04 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs05 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#cs06 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#cs07 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#cs08 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#logo2 {
+	float: left;
+	height: 100px;
+	width: 20px;
+}
+#chengse {
+	height: 100px;
+	width: 1194px;
+}
+#kb002 {
+	height: 20px;
+	width: 1194px;
+}
+#huangse {
+	height: 100px;
+	width: 1194px;
+}
+#kb003 {
+	height: 20px;
+	width: 1194px;
+}
+#lvse {
+	height: 100px;
+	width: 1194px;
+}
+#kb004 {
+	height: 20px;
+	width: 1194px;
+}
+#qingse {
+	height: 100px;
+	width: 1194px;
+}
+#kb005 {
+	height: 20px;
+	width: 1194px;
+}
+#lanse {
+	height: 100px;
+	width: 1194px;
+}
+#kb006 {
+	height: 20px;
+	width: 1194px;
+}
+#logo5 {
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-image: url(beijingtu.gif);
+}
+#zise {
+	height: 100px;
+	width: 1194px;
+}
+#logo #logo3 table tr td {
+	font-size: 20px;
+	text-decoration: none;
+}
+#wzpt {
+	text-decoration: none;
+}
+#logo #logo3 table tr td div strong a {
+	color: #FFF;
+	text-decoration: none;
+}
+#logo #logo5 table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#logo #logo5 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#logo #logo7 table tr td strong {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#logo #logo7 table tr td div strong a {
+	color: #FFF;
+	text-decoration: none;
+}
+#logo #logo9 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#logo #logo9 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#logo #logo11 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#logo #logo11 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#logo #logo13 table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#logo #logo13 table tr td {
+	color: #FFF;
+}
+#logo #logo13 table tr td {
+	color: #FFF;
+	text-decoration: none;
+}
+#logo #logo13 table tr td a {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs02 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#chengse #cs04 table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#chengse #cs04 table tr td div {
+	color: #FFF;
+}
+#chengse #cs04 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs06 table tr td strong {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#chengse #cs06 table tr td strong {
+	color: #FFF;
+}
+#chengse #cs06 table tr td div strong {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs06 table tr td div strong a {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs08 table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#chengse #cs08 table tr td div {
+	color: #FFF;
+}
+#chengse #cs08 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs10 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#chengse #cs10 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs12 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#chengse #cs12 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs14 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#chengse #cs14 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#chengse #cs16 table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#chengse #cs16 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#huangse #hs02 table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#huangse #hs02 table tr td div {
+	color: #FFF;
+}
+#huangse #hs04 table tr td {
+	font-size: 20px;
+	color: #FFF;
+}
+#huangse #hs04 table tr td {
+	color: #000;
+}
+#huangse #hs04 table tr td a {
+	color: #FFF;
+	text-decoration: none;
+}
+#huangse #hs06 table tr td strong {
+	font-size: 20px;
+	color: #000;
+}
+#huangse #hs06 table tr td div strong a {
+	color: #FFF;
+	text-decoration: none;
+}
+#huangse #hs08 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #000;
+}
+#huangse #hs08 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#huangse #hs10 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #000;
+}
+#huangse #hs10 table tr td div a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#huangse #hs12 table tr td {
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+}
+#huangse #hs12 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#huangse #hs14 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #000;
+}
+#huangse #hs14 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#huangse #hs16 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #000;
+}
+#huangse #hs16 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lvse #ls02 table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lvse #ls04 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#lvse #ls04 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lvse #ls06 table tr td {
+	font-size: 20px;
+	color: #FFF;
+}
+#lvse #ls06 table tr td div strong a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lvse #ls08 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#lvse #ls08 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lvse #ls10 table tr td strong {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#lvse #ls10 table tr td div strong a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lvse #ls12 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#lvse #ls12 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lvse #ls14 table tr td {
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFF;
+}
+#lvse #ls14 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lvse #ls16 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#lvse #ls16 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#qingse #qs02 table tr td {
+	font-weight: bold;
+}
+#qingse #qs02 table tr td div {
+	color: #FFF;
+}
+#qingse #qs02 table tr td div {
+	color: #FFF;
+	font-size: 20px;
+}
+#qingse #qs04 table tr td {
+	font-weight: bold;
+}
+#qingse #qs04 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;
+}
+#qingse #qs06 table tr td {
+	font-size: 20px;
+	font-weight: bold;
+	color: #000;
+}
+#qingse #qs06 table tr td div {
+	color: #000;
+}
+#qingse #qs06 table tr td div {
+	color: #000;
+	text-decoration: none;
+}
+#qingse #qs06 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#qingse #qs08 table tr td {
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+}
+#qingse #qs08 table tr td div {
+	color: #000;
+}
+#qingse #qs08 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#qingse #qs10 table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #000;
+}
+#qingse #qs10 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#qingse #qs12 table tr td {
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+}
+#qingse #qs12 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#qingse #qs14 table tr td {
+	color: #000;
+	font-weight: bold;
+}
+#qingse #qs14 table tr td div {
+	color: #000;
+}
+#qingse #qs14 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;
+}
+#qingse #qs16 table tr td {
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+}
+#qingse #qs16 table tr td div {
+	color: #000;
+}
+#qingse #qs16 table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lanse #ls02a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lanse #ls04a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lanse #ls04a table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lanse #ls06a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lanse #ls06a table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lanse #ls08a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lanse #ls08a table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lanse #ls10a table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#lanse #ls10a table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lanse #ls12a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lanse #ls12a table tr td {
+	color: #FFF;
+}
+#lanse #ls12a table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lanse #ls14a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lanse #ls14a table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#lanse #ls16a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#lanse #ls16a table tr td div a {
+	color: #FFF;
+	text-decoration: none;
+}
+#zise #zs02a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#zise #zs04a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#zise #zs06a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#zise #zs08a table tr td {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+}
+#zise #zs10a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#zise #zs12a table tr td {
+	font-size: 20px;
+	color: #FFF;
+	font-weight: bold;
+}
+#zise #zs14a table tr td {
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFF;
+}
+body {
+	background-image: url();
+	background-color: #42A0FF;
+}
+#zise #zs16a table tr td p {
+	color: #FFF;
+}
+</style>
+</head>
+
+<body><center>
+<div id="logo">
+  <div id="logo1"><img src="超市LOGO.jpg" width="180" height="60"></div>
+  <div id="logo2"></div>
+  <div id="logo3">
+    <table width="99%" height="100">
+      <tr>
+        <td><div align="center"><strong><a href="https://girlsou.taobao.com" rel=”nofollow” >钱夫人</a></strong></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="logo4"></div>
+  <div id="logo5">
+    <table width="100%" height="98">
+      <tr>
+        <td><div align="center"><a href="https://www.taobao.com/" rel=”nofollow” >淘宝网</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="logo6"></div>
+  <div id="logo7">
+    <table width="100%" height="99">
+      <tr>
+        <td><div align="center"><strong><a href="https://www.jd.com/" rel=”nofollow” >京东网</a></strong></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="logo8"></div>
+  <div id="logo9">
+    <table width="99%" height="99">
+      <tr>
+        <td><div align="center"><a href="https://www.suning.com/" rel=”nofollow” >苏宁易购</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="logo10"></div>
+  <div id="logo11">
+    <table width="99%" height="100">
+      <tr>
+        <td><div align="center"><a href="https://www.1688.com/" rel=”nofollow” >阿里巴巴</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="logo12"></div>
+  <div id="logo13">
+    <table width="99%" height="99">
+      <tr>
+        <td><div align="center"><a href="https://www.hc360.com/" rel=”nofollow” >慧聪网</a></div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div id="kb001"></div>
+<div id="chengse">
+  <div id="cs001"></div>
+  <div id="cs02">
+    <table width="101%" height="100">
+      <tr>
+        <td>视频直播</td>
+      </tr>
+    </table>
+  </div>
+  <div id="cs03"></div>
+  <div id="cs04">
+    <table width="102%" height="99">
+      <tr>
+        <td><div align="center"><a href="https://www.huya.com/" rel=”nofollow” >虎牙直播</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="cs05"></div>
+  <div id="cs06">
+    <table width="98%" height="101">
+      <tr>
+        <td><div align="center"><strong><a href="https://www.douyu.com/" rel=”nofollow” >斗鱼直播</a></strong></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="cs07"></div>
+  <div id="cs08">
+    <table width="99%" height="101">
+      <tr>
+        <td><div align="center"><a href="https://www.panda.tv/" rel=”nofollow” >熊猫直播</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="cs09"></div>
+  <div id="cs10">
+    <table width="99%" height="102">
+      <tr>
+        <td><div align="center"><a href="https://chushou.tv/" rel=”nofollow” >触手直播</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="cs11"></div>
+  <div id="cs12">
+    <table width="98%" height="101">
+      <tr>
+        <td><div align="center"><a href="https://www.youku.com/" rel=”nofollow” >优酷网</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="cs13"></div>
+  <div id="cs14">
+    <table width="100%" height="100">
+      <tr>
+        <td><div align="center"><a href="https://www.iqiyi.com/" rel=”nofollow” >爱奇艺</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="cs15"></div>
+  <div id="cs16">
+    <table width="100%" height="97">
+      <tr>
+        <td><div align="center"><a href="https://www.dytt8.net/" rel=”nofollow” >电影天堂</a></div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div id="kb002"></div>
+<div id="huangse">
+  <div id="hs01"></div>
+  <div id="hs02">
+    <table width="100%" height="100">
+      <tr>
+        <td><div align="center">游戏推荐</div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="hs03"></div>
+  <div id="hs04">
+    <table width="101%" height="100">
+      <tr>
+        <td><div align="center"><a href="https://lol.qq.com/" rel=”nofollow”>英雄联盟</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="hs05"></div>
+  <div id="hs06">
+    <table width="100%" height="102">
+      <tr>
+        <td><div align="center"><strong><a href="https://pvp.qq.com/" rel=”nofollow”>王者荣耀</a></strong></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="hs07"></div>
+  <div id="hs08">
+    <table width="100%" height="100">
+      <tr>
+        <td><div align="center"><a href="http://hy.163.com/" rel=”nofollow” >荒野行动</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="hs09"></div>
+  <div id="hs10">
+    <table width="100%" height="99">
+      <tr>
+        <td><div align="center"><a href="http://www.sdo-shabake.com/default" rel=”nofollow” >沙巴克</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="hs11"></div>
+  <div id="hs12">
+    <table width="101%" height="99">
+      <tr>
+        <td><div align="center"><a href="http://www.shandagames.com/cn/index" rel=”nofollow” >盛大游戏</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="hs13"></div>
+  <div id="hs14">
+    <table width="100%" height="100">
+      <tr>
+        <td><div align="center"><a href="https://game.qq.com/" rel=”nofollow” >腾讯游戏</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="hs15"></div>
+  <div id="hs16">
+    <table width="99%" height="100">
+      <tr>
+        <td><div align="center"><a href="http://game.163.com/" rel=”nofollow” >网易游戏</a></div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div id="kb003"></div>
+<div id="lvse">
+  <div id="ls01"></div>
+  <div id="ls02">
+    <table width="99%" height="100">
+      <tr>
+        <td>股票理财</td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls03"></div>
+  <div id="ls04">
+    <table width="100%" height="98">
+      <tr>
+        <td><div align="center"><a href="http://www.eastmoney.com/" rel=”nofollow” >东方财富</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls05"></div>
+  <div id="ls06">
+    <table width="100%" height="101">
+      <tr>
+        <td><div align="center"><strong><a href="http://www.hexun.com/" rel=”nofollow” >和讯网</a></strong></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls07"></div>
+  <div id="ls08">
+    <table width="100%" height="101">
+      <tr>
+        <td><div align="center"><a href="http://www.10jqka.com.cn" rel=”nofollow” >同花顺</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls09"></div>
+  <div id="ls10">
+    <table width="99%" height="97">
+      <tr>
+        <td><div align="center"><strong><a href="https://finance.sina.com.cn/" rel=”nofollow” >新浪财经</a></strong></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls11"></div>
+  <div id="ls12">
+    <table width="100%" height="103">
+      <tr>
+        <td><div align="center"><a href="http://www.cnstock.com/" rel=”nofollow” >证券网</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls13"></div>
+  <div id="ls14">
+    <table width="100%" height="100">
+      <tr>
+        <td><div align="center"><a href="http://www.p5w.net/" rel=”nofollow” >全景网</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls15"></div>
+  <div id="ls16">
+    <table width="99%" height="97">
+      <tr>
+        <td><div align="center"><a href="http://blog.sina.com.cn/wyw1578" rel=”nofollow” >王亚伟</a></div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div id="kb004"></div>
+<div id="qingse">
+  <div id="qs01"></div>
+  <div id="qs02">
+    <table width="98%" height="101">
+      <tr>
+        <td><div align="center">搜索引擎</div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="qs03"></div>
+  <div id="qs04">
+    <table width="100%" height="102">
+      <tr>
+        <td><div align="center"><a href="https://www.baidu.com/" rel=”nofollow” >百度搜索</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="qs05"></div>
+  <div id="qs06">
+    <table width="100%" height="99">
+      <tr>
+        <td><div align="center"><a href="https://www.sogou.com/" rel=”nofollow” >搜狗搜索</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="qs07"></div>
+  <div id="qs08">
+    <table width="101%" height="101">
+      <tr>
+        <td><div align="center"><a href="https://www.so.com/" rel=”nofollow” >360搜索</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="qs09"></div>
+  <div id="qs10">
+    <table width="102%" height="100">
+      <tr>
+        <td><div align="center"><a href="https://tieba.baidu.com/" rel=”nofollow” >百度贴吧</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="qs11"></div>
+  <div id="qs12">
+    <table width="101%" height="101">
+      <tr>
+        <td><div align="center"><a href="http://www.tianya.cn/" rel=”nofollow”>天涯社区</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="qs13"></div>
+  <div id="qs14">
+    <table width="100%" height="100">
+      <tr>
+        <td><div align="center"><a href="http://www.mop.com/" rel=”nofollow”>猫扑社区</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="qs15"></div>
+  <div id="qs16">
+    <table width="101%" height="102">
+      <tr>
+        <td><div align="center"><a href="https://www.hao123.com/" rel=”nofollow”>好123</a></div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div id="kb005"></div>
+<div id="lanse">
+  <div id="ls01a"></div>
+  <div id="ls02a">
+    <table width="102%" height="101">
+      <tr>
+        <td><div align="center">求职招聘</div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls03a"></div>
+  <div id="ls04a">
+    <table width="100%" height="102">
+      <tr>
+        <td><div align="center"><a href="https://www.51job.com/" rel=”nofollow”>前程无忧</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls05a"></div>
+  <div id="ls06a">
+    <table width="102%" height="101">
+      <tr>
+        <td><div align="center"><a href="https://www.liepin.com/" rel=”nofollow” >猎聘网</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls07a"></div>
+  <div id="ls08a">
+    <table width="102%" height="98">
+      <tr>
+        <td><div align="center"><a href="https://www.lagou.com/" rel=”nofollow” >拉勾网</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls09a"></div>
+  <div id="ls10a">
+    <table width="100%" height="100">
+      <tr>
+        <td><div align="center"><a href="https://sz.58.com/" rel=”nofollow” >58同城</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls11a"></div>
+  <div id="ls12a">
+    <table width="99%" height="100">
+      <tr>
+        <td><div align="center"><a href="http://www.cjol.com/" rel=”nofollow”>人才热线</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls13a"></div>
+  <div id="ls14a">
+    <table width="102%" height="98">
+      <tr>
+        <td><div align="center"><a href="http://www.gdrc.com/" rel=”nofollow”>广东人才</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <div id="ls15a"></div>
+  <div id="ls16a">
+    <table width="102%" height="98">
+      <tr>
+        <td><div align="center"><a href="http://www.hnrcsc.com/" rel=”nofollow”>湖南人才</a></div></td>
+      </tr>
+    </table>
+  </div>
+  <p>&nbsp;</p>
+</div>
+<div id="kb006"></div>
+<div id="zise">
+  <div id="zs01a"></div>
+  <div id="zs02a">
+    <table width="101%" height="101">
+      <tr>
+        <td>首页修复</td>
+      </tr>
+    </table>
+  </div>
+  <div id="zs03a"></div>
+  <div id="zs04a">
+    <table width="99%" height="99">
+      <tr>
+        <td>客服中心</td>
+      </tr>
+    </table>
+  </div>
+  <div id="zs05a"></div>
+  <div id="zs06a">
+    <table width="100%" height="99">
+      <tr>
+        <td>免责声明</td>
+      </tr>
+    </table>
+  </div>
+  <div id="zs07a"></div>
+  <div id="zs08a">
+    <table width="99%" height="98">
+      <tr>
+        <td>版权声明</td>
+      </tr>
+    </table>
+  </div>
+  <div id="zs09a"></div>
+  <div id="zs10a">
+    <table width="100%" height="98">
+      <tr>
+        <td>网站地图</td>
+      </tr>
+    </table>
+  </div>
+  <div id="zs11a"></div>
+  <div id="zs12a">
+    <table width="100%" height="101">
+      <tr>
+        <td>友情链接</td>
+      </tr>
+    </table>
+  </div>
+  <div id="zs13a"></div>
+  <div id="zs14a">
+    <table width="98%" height="100">
+      <tr>
+        <td>版本切换</td>
+      </tr>
+    </table>
+  </div>
+  <div id="zs15a"></div>
+  <div id="zs16a">
+    <table width="101%" height="102">
+      <tr>
+        <td><p><strong>Copyright©</strong></p>
+        <p><strong>2019</strong></p></td>
+      </tr>
+    </table>
+  </div>
+</div>
+</center></body>
+</html>
